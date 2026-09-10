@@ -49,7 +49,7 @@ Hidden Book & Cloud Bank
 </div>
 
 
-## printable like: soon!
+## printable like: https://www.printables.com/model/1838651-hidden-book-cloud-bank
 ## About the Project
 
 ### **Hidden Book** - It a Book Shape Secret storage Where we can hide our Stuff. Made in a fusion 360.
