@@ -17,7 +17,7 @@ Hidden Book & Cloud Bank
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Project](https://img.shields.io/badge/Project-CAD-yellow.svg)
-![Series](https://img.shields.io/badge/Series-Hiddlen-lime.svg)
+![Series](https://img.shields.io/badge/Series-Hidden-lime.svg)
 
 </div>
 <p align="center">
@@ -36,12 +36,17 @@ Hidden Book & Cloud Bank
 
 <br>
 <br>
-<p align=center>
-  
- 
-Demo Soon
 
-</p>
+  
+<div align="center">
+<table>
+<tr>
+<td valign="bottom"><img width=100% alt="image" src="https://github.com/user-attachments/assets/c522894d-9c1d-4269-80f5-6c99f7a0b727" />
+</td>
+<td valign="bottom"><img width=100% alt="image" src="https://github.com/user-attachments/assets/40635641-c7cd-4ffc-8e5c-286643434a47" />
+
+</table>
+</div>
 
 
 ## printable like: soon!
